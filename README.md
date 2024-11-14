@@ -1,5 +1,3 @@
 # Weather-Forcast-
 
-This belongs to Parag
-
-Goswami
+This belongs to Parag Goswami
